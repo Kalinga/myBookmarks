@@ -1,1 +1,0 @@
-<puppet><http://stdout.no/puppet-on-raspberry-pi/d>

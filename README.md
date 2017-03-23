@@ -1,2 +1,2 @@
-# myBookmarks
-Bookmarks, links of interest will be stored here 
+# myBooksAndDocs
+Books and Docs
